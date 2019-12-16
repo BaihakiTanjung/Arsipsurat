@@ -1,0 +1,262 @@
+*, *:before, *:after {
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+  box-sizing: border-box;
+}
+
+body, html, .login_form {
+  height: 100%;
+}
+
+body {
+  background: #0000;
+}
+.login_form {
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-flex: center;
+  -moz-box-flex: center;
+  -webkit-flex: center;
+  -ms-flex: center;
+  flex: center;
+  -webkit-justify-content: center;
+  -moz-justify-content: center;
+  justify-content: center;
+  -webkit-box-pack: center;
+  -moz-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.login-wrapper {
+  max-width: 500px;
+  width: 100%;
+  text-align: center;
+}
+.login-wrapper label {
+  padding: 10px;
+  font-weight: bold;
+}
+.logo {
+  text-align: center;
+}
+.logo img {
+  max-width: 200px;
+  width: 100%;
+  margin: 1em auto 2em;
+}
+
+form {
+  background: #d63031;
+  padding: 2em 1em;
+  font-family: helvetica, sans-serif;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+form .formlogin {
+  color: #fff;
+  margin: .1px .25em;
+  display: block;
+  font-family: helvetica, sans-serif;
+  background-color: transparent;
+  font-size: 20px;
+  font-weight: bold;
+}
+form label {
+  color: #fff;
+  margin: 0 3% .25em;
+  display: block;
+  font-family: helvetica, sans-serif;
+}
+form input {
+  width: 90%;
+  padding: .5em .25em;
+  margin: 0 3% 1em;
+  font-size: 1.2em;
+  border: 2px solid #000;
+  outline: none;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -ms-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  transition: all 0.25s;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+}
+form input.password {
+  padding-right: 4rem;
+}
+form input:focus {
+  border: 2px solid #1fd100;
+}
+form button {
+  width: 90%;
+  margin: 1em 3% 0;
+  border: none;
+  background-color: #2ecc71;
+  padding: 1em 0;
+  font-size: 1.25em;
+  clear: both;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  outline: none;
+  -webkit-transition: all 0.25s;
+  -moz-transition: all 0.25s;
+  -ms-transition: all 0.25s;
+  -o-transition: all 0.25s;
+  transition: all 0.25s;
+  cursor: pointer;
+}
+form button:focus, form button:hover {
+  background: #27ae60;
+}
+
+.hide-show {
+  width: 94%;
+  margin: -3.62em 3% 0 1.5%;
+  position: relative;
+  z-index: 5;
+  display: none;
+}
+.hide-show span {
+  background: #1fd100;
+  font-size: 1em;
+  padding: .5em;
+  float: right;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  border-radius: 5px;
+  cursor: pointer;
+}
+input[type=text], select {
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+}
+
+input[type=submit]:hover {
+    background-color: #45a049;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+
+#ms_petugas {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+#ms_petugas td, #ms_petugas th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#ms_petugas tr:nth-child(even){background-color: #f2f2f2;}
+
+#ms_petugas tr:hover {background-color: #ddd;}
+
+#ms_petugas th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#surat_keluar {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+#surat_keluar td, #surat_keluar th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#surat_keluar tr:nth-child(even){background-color: #f2f2f2;}
+
+#surat_keluar tr:hover {background-color: #ddd;}
+
+#surat_keluar th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+
+div {
+    border-radius: 5px;
+    background-color: #f2f2f2;
+    padding: 20px;
+}
+#surat_masuk {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+#surat_masuk td, #surat_masuk th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#surat_masuk tr:nth-child(even){background-color: #f2f2f2;}
+
+#surat_masuk tr:hover {background-color: #ddd;}
+
+#surat_masuk th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}
+body .topnav {
+  padding: 3px;
+}
+i {
+  margin-right:  1px;
+}
+#disposisi {
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%; 
+}
+
+#disposisi td, #disposisi th {
+    border: 1px solid #ddd;
+    padding: 8px;
+}
+
+#disposisi tr:nth-child(even){background-color: #f2f2f2;}
+
+#disposisi tr:hover {background-color: #ddd;}
+
+#disposisi th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    background-color: green;
+    color: white;
+}

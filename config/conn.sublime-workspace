@@ -1,0 +1,561 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"whl",
+				"while\twhile …"
+			],
+			[
+				"D",
+				"data"
+			],
+			[
+				"Ha",
+				"Harga2"
+			],
+			[
+				"r",
+				"Rupiah2"
+			],
+			[
+				"R",
+				"Rupiah1"
+			],
+			[
+				"l",
+				"Laptop2"
+			],
+			[
+				"L",
+				"Laptop1"
+			],
+			[
+				"Bilan",
+				"Bilangan2"
+			],
+			[
+				"ne",
+				"nextInt"
+			],
+			[
+				"p",
+				"print"
+			],
+			[
+				"bil",
+				"Bilangan2"
+			],
+			[
+				"N",
+				"N_float"
+			],
+			[
+				"hi",
+				"height\tAttr"
+			],
+			[
+				"Ja",
+				"JApplet"
+			],
+			[
+				"MSq",
+				"msql_connect"
+			],
+			[
+				"S",
+				"System"
+			],
+			[
+				"s",
+				"System"
+			],
+			[
+				"sta",
+				"status3"
+			],
+			[
+				"Statu",
+				"status"
+			],
+			[
+				"st",
+				"String"
+			],
+			[
+				"a",
+				"answer"
+			],
+			[
+				"h",
+				"Harga5"
+			],
+			[
+				"ha",
+				"Harga3"
+			],
+			[
+				"har",
+				"Harga1"
+			],
+			[
+				"va",
+				"val2"
+			],
+			[
+				"b",
+				"boolean"
+			],
+			[
+				"f",
+				"false"
+			],
+			[
+				"Va",
+				"Val1"
+			],
+			[
+				"te",
+				"true"
+			],
+			[
+				"val",
+				"Val1"
+			],
+			[
+				"Val",
+				"Val1"
+			],
+			[
+				"j",
+				"j"
+			],
+			[
+				"sy",
+				"system"
+			],
+			[
+				"i",
+				"i"
+			],
+			[
+				"bara",
+				"barang1"
+			],
+			[
+				"sr",
+				"String"
+			],
+			[
+				"td",
+				"td"
+			],
+			[
+				"db",
+				"dbConn"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"Jeni",
+				"jeniskelamin"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"txt",
+				"txttanggallahir"
+			],
+			[
+				"jurua",
+				"Jurusan"
+			],
+			[
+				"Nama",
+				"Nama"
+			],
+			[
+				"em",
+				"Email"
+			],
+			[
+				"jurusan",
+				"Jurusan"
+			],
+			[
+				"fu",
+				"function"
+			],
+			[
+				"con",
+				"conn"
+			],
+			[
+				"n",
+				"Nama"
+			],
+			[
+				"ke",
+				"kelas"
+			],
+			[
+				"tx",
+				"txtEmail"
+			],
+			[
+				"cb",
+				"cbojurusan"
+			],
+			[
+				"tempat",
+				"Tempatlahir"
+			],
+			[
+				"TXT",
+				"txttempatlahir"
+			],
+			[
+				"PO",
+				"_POST"
+			],
+			[
+				"t",
+				"tfoot\tTag"
+			],
+			[
+				"opt",
+				"option\tTag"
+			],
+			[
+				"se",
+				"select\tTag"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"m",
+				"meta\tTag"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"ce",
+				"cellspacing\tAttr"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"da",
+				"database"
+			],
+			[
+				"ifr",
+				"iframe_a"
+			],
+			[
+				"if",
+				"iframe_a"
+			],
+			[
+				"fo",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"erro",
+				"error_reporting"
+			],
+			[
+				"mysql",
+				"mysql_error"
+			],
+			[
+				"my",
+				"mysql_query"
+			],
+			[
+				"mys",
+				"mysql_connect"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"padding",
+				"padding-right"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"padi",
+				"padding-left"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/F/Data_web/dbsekolah/index.php",
+		"/F/Data_web/dbsekolah/Delete.php",
+		"/F/Data_web/dbsekolah/viewdata.php",
+		"/D/perograman java/ScannerString.java",
+		"/D/perograman java/ScannnerInt.java",
+		"/D/perograman java/DaftarHarga.java",
+		"/D/perograman java/PenjumlahanArgs.java",
+		"/D/perograman java/CastingInt2Float.java",
+		"/D/perograman java/ContohCasting.Java",
+		"/D/perograman java/LatihanApplet.HTML",
+		"/D/perograman java/LatihanApplet.Java",
+		"/D/perograman java/TestApplet.html",
+		"/D/perograman java/TestApplet.java",
+		"/D/perograman java/TestApplet. java. java",
+		"/D/perograman java/TestApplet. html.html",
+		"/D/perograman java/TestApplet. java",
+		"/D/perograman java/OperatorString.java",
+		"/D/perograman java/MataPelajaran.java",
+		"/D/perograman java/LatihanCO.java",
+		"/D/perograman java/DaftarBelanja.java",
+		"/D/perograman java/AritmatikaDemo.java",
+		"/D/perograman java/ConditionalOperator2.java",
+		"/D/perograman java/ConditionalOperator.java",
+		"/D/perograman java/TestAND.java",
+		"/D/perograman java/TestXOR.java",
+		"/D/perograman java/TestNOT.java",
+		"/D/perograman java/Siswa.java",
+		"/D/perograman java/Biodata.java",
+		"/D/perograman java/Laptop.java",
+		"/D/perograman java/Konstanta.java",
+		"/D/perograman java/OutputVariable.java",
+		"/D/perograman java/TestGUI.java",
+		"/D/perograman java/TestBaris.java",
+		"/F/Data_web/dbsekolah/delete.php",
+		"/F/Data_web/siswa/delete.php",
+		"/D/perograman java/TestHello.java",
+		"/C/Users/Annissa/Documents/belajar sabtu/HOME.html",
+		"/D/perograman java/Konstanta.class",
+		"/C/xampp/htdocs/Data_siswa/index.html",
+		"/F/Data_web/dbsekolah/config/conn.php",
+		"/C/xampp/readme_en.txt",
+		"/C/xampp/htdocs/dbsekolah/index.php",
+		"/F/Data_web/siswa/index.php",
+		"/F/Data_web/siswa/koneksiDB.php",
+		"/F/Data_web/siswa/simpan_data.php",
+		"/F/Data_web/siswa/tampil.php",
+		"/C/xampp/htdocs/Data_siswa/koneksi.php",
+		"/C/xampp/htdocs/Data_siswa/tambah.php",
+		"/C/xampp/htdocs/Data_siswa/tambah.proses.php",
+		"/G/Mozaik Web Template/assets/css/style.css",
+		"/G/Mozaik Web Template/index.html",
+		"/D/belajar web/WEB STATIS/indexs.html",
+		"/D/belajar web/galery.html",
+		"/D/belajar web/utama.html",
+		"/D/tampil.php",
+		"/C/Users/Annissa/Desktop/test.html",
+		"/D/belajar web/WEB STATIS/uas web/web.css",
+		"/D/belajar web/WEB STATIS/uas web/galery.html",
+		"/D/belajar web/WEB STATIS/uas web/pembukaan.html",
+		"/D/belajar web/WEB STATIS/uas web/indeks.html",
+		"/D/belajar web/WEB STATIS/uas web/style.css",
+		"/D/belajar web/biodata.html",
+		"/D/belajar web/pramuka.html",
+		"/D/belajar web/galery1.html",
+		"/D/belajar web/style.css"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 22.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "conn.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
